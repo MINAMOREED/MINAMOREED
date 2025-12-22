@@ -51,9 +51,11 @@ Currently working on scalable AI systems and business-driven analytics tools.<br
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minahany8325&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minahany8325&layout=compact&hide_border=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MINAMOREED&show_icons=true&hide_border=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINAMOREED&layout=compact&hide_border=true&theme=tokyonight)
+
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=minahany8325&label=Profile%20Views&color=0&icon=5&pretty=true)
+![Profile Views](https://visitcount.itsvg.in/api?id=MINAMOREED&label=Profile%20Views&color=0&icon=5&pretty=true)
+
