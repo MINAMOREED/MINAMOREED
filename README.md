@@ -70,9 +70,21 @@ Currently working on scalable AI systems and business-driven analytics tools.<br
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MINAMOREED&show_icons=true&hide_border=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINAMOREED&layout=compact&hide_border=true&theme=tokyonight)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINAMOREED&theme=gotham&layout=compact&hide_border=true&size_weight=0.2&count_weight=0.5&hide=html" alt="Hussam Top Languages" />  
+</p>
 
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MINAMOREED&theme=github-dark&hide_border=false" />
+</p>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MINAMOREED&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINAMOREED&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
+</div>
 
 ---
 
