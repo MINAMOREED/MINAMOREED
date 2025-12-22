@@ -12,7 +12,7 @@ Currently working on scalable AI systems and business-driven analytics tools.<br
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 <p align="left">
   <!-- Languages -->
