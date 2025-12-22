@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mina Hany  <br><br>AI Engineer | Desktop App Developer | Startup Builder  <br><br>- 🚀 Co-founder & CEO of **Axiora** — a local AI-powered analytics desktop app  <br>- 🧠 Focused on data analysis, ML, and privacy-first local AI  <br>- 💻 Building desktop software using Python & PyQt6  <br>- 🔍 Passionate about turning raw data into actionable insights  <br><br>Currently working on scalable AI systems and business-driven analytics tools.<br>
+Hi 👋 I'm Mina Hany  <br><br>AI Engineer | Desktop App Developer | Startup Builder  <br><br>- 🚀 Co-founder & CEO of **Axiora** — an AI-powered analytics desktop app  <br>- 🧠 Focused on data analysis, ML, and privacy-first local AI  <br>- 💻 Building desktop software using Python & PyQt6  <br>- 🔍 Passionate about turning raw data into actionable insights  <br><br>Currently working on scalable AI systems and business-driven analytics tools.<br>
 
 
 ## 🌐 Socials:
