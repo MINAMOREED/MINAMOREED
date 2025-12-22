@@ -12,15 +12,6 @@ Currently working on scalable AI systems and business-driven analytics tools.<br
 
 ---
 
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/minahany8325)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mina%20Moreed)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mina_moreed)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minamoreed68@gmail.com)
-
----
-
 ## 🧰 Languages & Tools
 
 <p align="left">
@@ -59,6 +50,23 @@ Currently working on scalable AI systems and business-driven analytics tools.<br
 
 
 ---
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://discord.gg/minahany8325">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://linkedin.com/in/Mina%20Moreed">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:minamoreed68@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://x.com/mina_moreed">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
 
 ## 📊 GitHub Stats
 
