@@ -1,92 +1,85 @@
-## 💫 About Me
+## Hello, World!
+<img align="right" src="https://komarev.com/ghpvc/?username=MINAMOREED" alt="Profile Views" />
 
-Hi 👋 I'm Mina Hany  <br><br>
-AI Engineer | Desktop App Developer | Startup Builder  <br><br>
+Junior Data Engineer specializing in ETL development and scalable pipeline design. Experienced with modern data processing platforms and grounded in data science and analytics.
+## About Me
+- 🎓 AI graduate @ Kafrelsheikh University (KSU)
+- 📊️ Founder @ [Axiora](https://www.axiora.software)
+- 📝 Take a look at my [Resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Resume.pdf)
+- 🐴 I enjoy drinking coffee ☕, and listening to music 🎶
 
-- 🚀 Co-founder & CEO of **Axiora** — an AI-powered, privacy-first analytics desktop app  <br>
-- 🧠 Focused on data analysis, machine learning, and intelligent systems  <br>
-- 💻 Building scalable desktop software using Python, PyQt6, and Flutter  <br>
-- 🔍 Passionate about turning raw data into actionable insights  <br><br>
-
-Currently working on scalable AI systems and business-driven analytics tools.<br>
-
----
+[//]: # (- 👨🏻‍💻 Programming mentor)
 
 ## Languages & Tools
-
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="42" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="42" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="42" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
-  <!-- Dev & OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="42" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="42" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux" />
-
-  <!-- Data / ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="42" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="42" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="42" alt="TensorFlow" />
-
-  <!-- Backend / Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="42" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="42" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="42" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="42" alt="Azure" />
+[//]: # (  <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Golang" width="50" height="50"/>)
 </p>
-
-<!-- Missing-but-important stack (kept clean) -->
 <p align="left">
-  <img src="https://img.shields.io/badge/PyQt6-Desktop-41CD52?style=flat&logo=qt&logoColor=white" alt="PyQt6" />
-  <img src="https://img.shields.io/badge/Flutter-Apps-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Plotly-Viz-3F4F75?style=flat&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Matplotlib-Viz-white?style=flat&logo=python&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="T-SQL" />
+
+[//]: # (  <img src="https://influxdata.github.io/branding/img/downloads/cubo-teal.png" height="40" alt="Influxdb" />)
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />)
+
+[//]: # (  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" />)
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" height="40" alt="Apache" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS" style="filter: brightness(0) invert(1);" /> 
+</p>
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" style="filter: brightness(0) invert(1);" />
+
+[//]: # (  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" height="40" alt="Kafka" style="filter: brightness&#40;0&#41; invert&#40;1&#41;;" />)
+[//]: # (  <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" height="40" alt="Flink" />)
+[//]: # (  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"  height="40" alt="FastAPI" />)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+
+[//]: # (  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" height="40" alt="LangChain" />)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
+
 </p>
 
 
----
-## 🤝 Connect with Me
 
+## Connect with Me
+<div align="center">
+  <a href="https://discord.com/users/lilhuss26" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="https://www.linkedin.com/in/lilhuss26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:h.m.elnemr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/LilHuss26/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
+  </a>
+</div>
+
+## GitHub Status
 <p align="center">
-  <a href="https://discord.gg/minahany8325">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://linkedin.com/in/Mina%20Moreed">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:minamoreed68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://x.com/mina_moreed">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINAMOREED&theme=gotham&layout=compact&hide_border=true&size_weight=0.2&count_weight=0.5&hide=html" alt="Mina Top Languages" />  
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.2&count_weight=0.8&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MINAMOREED&theme=github-dark&hide_border=false" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MINAMOREED&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINAMOREED&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="MINAMOREED's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
 </div>
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=MINAMOREED&label=Profile%20Views&color=0&icon=5&pretty=true)
-
+## Badges 
+<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" height="100">
