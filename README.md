@@ -80,3 +80,4 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
 ## Badges 
 <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fleetcode.com%2Fstudyplan%2Ftop-sql-50%2F&ved=0CBYQjRxqFwoTCMipscbO75IDFQAAAAAdAAAAABAH&opi=89978449" height="100">
 
+
