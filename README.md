@@ -39,12 +39,9 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" style="filter: brightness(0) invert(1);" />
 
-[//]: # (  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Apache_Kafka_logo.svg/1280px-Apache_Kafka_logo.svg.png" height="40" alt="Kafka" style="filter: brightness&#40;0&#41; invert&#40;1&#41;;" />)
-[//]: # (  <img src="https://flink.apache.org/img/logo/png/1000/flink_squirrel_1000.png" height="40" alt="Flink" />)
-[//]: # (  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg"  height="40" alt="FastAPI" />)
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
 
-[//]: # (  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langchain-color.png" height="40" alt="LangChain" />)
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" />
 
 </p>
