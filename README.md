@@ -35,7 +35,6 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
   <img src="https://logodownload.org/wp-content/uploads/2018/03/apache-logo-3.png" height="40" alt="Apache" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" height="40" alt="Power BI" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Linux" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="AWS" style="filter: brightness(0) invert(1);" /> 
 </p>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" height="40" alt="Spark" style="filter: brightness(0) invert(1);" />
@@ -54,32 +53,33 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
 
 ## Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/lilhuss26" target="_blank">
+  <a href="https://discord.com/users/851603312729915432" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://www.linkedin.com/in/lilhuss26/" target="_blank">
+  <a href="https://www.linkedin.com/in/mina-moreed/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="mailto:h.m.elnemr@gmail.com" target="_blank">
+  <a href="mailto:minamoreed68@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://leetcode.com/u/LilHuss26/" target="_blank">
+  <a href="https://leetcode.com/u/mina-hany/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode" />
   </a>
 </div>
 
 ## GitHub Status
 <p align="center">
-<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=lilhuss26&theme=gotham&layout=compact&size_weight=0.2&count_weight=0.8&hide=html" alt="Hussam Top Languages" />  
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api/top-langs/?username=MINAMOREED&theme=gotham&layout=compact&size_weight=0.2&count_weight=0.8&hide=html" alt="Hussam Top Languages" />  
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=LilHuss26&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats-liart-tau-69.vercel.app/api?username=MINAMOREED&theme=gotham&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LilHuss26&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINAMOREED&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
 </div>
 
 ## Badges 
-<img src="https://leetcode.com/static/images/badges/dcc-2024-3.png" height="100">
+<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fleetcode.com%2Fstudyplan%2Ftop-sql-50%2F&ved=0CBYQjRxqFwoTCMipscbO75IDFQAAAAAdAAAAABAH&opi=89978449" height="100">
+
