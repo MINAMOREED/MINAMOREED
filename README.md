@@ -77,7 +77,7 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MINAMOREED&area=true&hide_border=true&theme=github-compact&days=15" width="80%" alt="LilHuss's activity graph" />
 </div>
 
-## Badges 
-<img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fleetcode.com%2Fstudyplan%2Ftop-sql-50%2F&ved=0CBYQjRxqFwoTCMipscbO75IDFQAAAAAdAAAAABAH&opi=89978449" height="100">
+## Badges
 
+<img src="https://github.com/user-attachments/assets/79dd1274-fe3a-433a-a738-c83d410a8ac9" height="100">
 
