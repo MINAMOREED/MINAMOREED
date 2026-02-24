@@ -5,7 +5,7 @@ Junior Data Engineer specializing in ETL development and scalable pipeline desig
 ## About Me
 - 🎓 AI graduate @ Kafrelsheikh University (KSU)
 - 📊️ Founder @ [Axiora](https://www.axiora.software)
-- 📝 Take a look at my [Resume](https://github.com/lilhuss26/LilHuss26/blob/main/Hussam%20Elnemr%20Resume.pdf)
+- 📝 Take a look at my [Resume](Mina_Hany_Resume_DE.pdf)
 - 🐴 I enjoy drinking coffee ☕, and listening to music 🎶
 
 [//]: # (- 👨🏻‍💻 Programming mentor)
